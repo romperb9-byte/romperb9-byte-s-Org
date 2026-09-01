@@ -1,0 +1,6 @@
+{
+  "name": "កម្មវិធីជំរឿនស្ថិតិភូមិ (Village Census)",
+  "description": "ប្រព័ន្ធជំរឿន និងស្រង់ស្ថិតិប្រជាជនកម្រិតភូមិ មានមុខងារផ្ទុកទិន្នន័យលើអនឡាញ និងប្រើប្រាស់ក្រៅបណ្តាញ (Online & Offline Village Census System)",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
